@@ -1,0 +1,28 @@
+{
+  "AT-reminder": {
+    "issues": [],
+    "verdict": "pass"
+  },
+  "GR-bf-late": {
+    "issues": [
+      "outside send window"
+    ],
+    "verdict": "fail"
+  },
+  "HR-welcome": {
+    "issues": [],
+    "verdict": "pass"
+  },
+  "HU-bf-long": {
+    "issues": [
+      "subject over 50"
+    ],
+    "verdict": "fail"
+  },
+  "SI-night": {
+    "issues": [
+      "outside send window"
+    ],
+    "verdict": "fail"
+  }
+}

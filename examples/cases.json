@@ -1,0 +1,7 @@
+[
+  {"id": "HR-welcome", "subject": "Dobro došli!", "send_time": "09:00"},
+  {"id": "GR-bf-late", "subject": "Black Friday: έως 40% έκπτωση", "send_time": "21:30"},
+  {"id": "HU-bf-long", "subject": "Black Friday: akár 40% kedvezmény a kiválasztott termékekre", "send_time": "10:00"},
+  {"id": "AT-reminder", "subject": "Nur noch heute: Ihr Gutschein läuft ab", "send_time": "18:00"},
+  {"id": "SI-night", "subject": "Zadnja priložnost", "send_time": "23:30"}
+]
